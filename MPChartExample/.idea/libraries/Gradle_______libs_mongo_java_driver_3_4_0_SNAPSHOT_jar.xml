@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./../libs/mongo-java-driver-3.4.0-SNAPSHOT.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libs/mongo-java-driver-3.4.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
